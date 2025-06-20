@@ -1,6 +1,4 @@
-# Term Project #2  (part.1)
-
-## 202312123_김온
+# Socket Programming with UDP
 
 ## 프로젝트 설명
 
